@@ -23,4 +23,5 @@ while keyboard.is_pressed('q') == False:
     pydirectinput.keyUp('x')
     pydirectinput.keyUp('v')
     time.sleep(0.01)
-    
+
+    #autoclicker
